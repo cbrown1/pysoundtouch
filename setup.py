@@ -26,7 +26,7 @@ setup(name='soundtouch',
     author_email='cbrown1@pitt.edu',
     maintainer='Christopher Brown',
     maintainer_email='cbrown1@pitt.edu',
-    url='http://pysoundtouch.googlecode.com',
+    url='https://github.com/cbrown1/pysoundtouch',
     cmdclass = {'build_ext':build_ext},
     ext_modules = ext_modules
 )
