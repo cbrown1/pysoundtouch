@@ -15,7 +15,7 @@ before_install:
   - ulimit -a
 
 install:
-  - sudo apt-get install soundtouch-dev
+  - sudo apt-get install libsoundtouch-dev
   - pip install -q numpy cython
   - python setup.py develop
 
