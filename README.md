@@ -4,7 +4,7 @@
 
 A python binding to the soundtouch library.
 
-This is the same code as [recapture](https://gist.github.com/jedahu/5028736#file-multichannel-play-record-jack-md) with a few minor bugfixes, and improved logging and option handling. But the essential code is identical.
+At this point only one function is implemented: shift_pitch.
 
 ## Prerequisites
 
