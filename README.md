@@ -30,3 +30,13 @@ sudo python setup.py install
 alpha = -1 # shift 1 octave down in frequency
 shift_pitch(sig, fs, alpha)
 ```
+
+## Authors
+
+- **Olli Parviainen** - Original soundtouch library
+
+- **Christopher Brown**
+
+## License
+
+This project is licensed under the GPLv3 - see the [LICENSE.md](LICENSE.md) file for details.
